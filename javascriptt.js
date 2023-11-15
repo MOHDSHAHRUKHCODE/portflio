@@ -1,10 +1,4 @@
-
-    var typed = new Typed('#auto-type', {
-      strings: ['am a dedicated Android and website developer with a strong passion for creating innovative and user-friendly mobile applications and websites, leveraging my expertise in programming, problem-solving, and design to deliver exceptional digital solutions.'],
-      typeSpeed: 50,
-    });
-
-    function  disableBtn(){
+ function  disableBtn(){
         // Assuming you have a predefined password
         let predefinedPassword = "hello";
         // Prompt the user for input
